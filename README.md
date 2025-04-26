@@ -38,19 +38,6 @@ Este conjunto de ejercicios forma parte de una etapa inicial en el aprendizaje d
 
 ---
 
-## 📌 Examen práctico
-
-Como cierre de esta etapa, también se incluye un examen práctico que consolida todo lo aprendido.  
-El ejercicio consistió en desarrollar un programa que:
-
-- Solicite 10 números enteros positivos menores a 21.
-- Calcule la sumatoria y el promedio.
-- Determine si el primer número ingresado correctamente es par.
-- Determine si el último número ingresado correctamente es impar.
-
-Este ejercicio refleja el manejo de estructuras repetitivas, validaciones, operaciones matemáticas y condiciones múltiples en un único programa.
-
----
 
 ## 📎 Nota
 
